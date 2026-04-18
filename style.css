@@ -12,15 +12,11 @@ body {
     transition: 1.5s;
     gap: 40px;
 
-    img {
-        position: relative;
-        right: 170px;
-    }
 
     a {
         cursor: pointer;
         position: relative;
-        left: 450px;
+        left: 720px;
         font-size: 30px;
         color: aliceblue;
         text-decoration: none;
@@ -37,7 +33,7 @@ a:hover {
     width: 350px;
     text-align: center;
     position: relative;
-    left: 515px;
+    left: 455px;
     top: 30px;
     border-radius: 0px 20px 0px 20px;
     color: aliceblue;
@@ -92,7 +88,7 @@ a:hover {
         top: 30px;
         width: 250px;
         position: relative;
-        left: 560px;
+         left: 510px;
         top: 30px;
         border-radius: 20px 0px 20px 0px;
         transition: 0.5s;
@@ -129,7 +125,7 @@ a:hover {
         top: 30px;
         width: 250px;
         position: relative;
-        left: 560px;
+      left: 510px;
         top: 30px;
         border-radius: 20px 0px 20px 0px;
         transition: 0.5s;
@@ -158,4 +154,11 @@ a:hover {
 
 #movie-image {
     border-radius: 0px 20px 0px 20px;
+}
+.heder .logoi{
+    width: 100px;
+    height: 100px;
+   position: relative;
+   left: 40px;
+  
 }
