@@ -1,5 +1,5 @@
 body {
-    background-image: url(image/bc1.webp);
+    background-image: url(image/bg1.webp);
     background-size: 100%;
 }
 
@@ -125,7 +125,7 @@ a:hover {
         top: 30px;
         width: 250px;
         position: relative;
-      left: 510px;
+        left: 510px;
         top: 30px;
         border-radius: 20px 0px 20px 0px;
         transition: 0.5s;
